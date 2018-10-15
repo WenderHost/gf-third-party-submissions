@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name:     GravityForms 3rd Party Submission Handler
- * Plugin URI:      PLUGIN SITE HERE
+ * Plugin URI:      https://github.com/WenderHost/gf-third-party-submissions
  * Description:     Sends GF form submissions to a third party.
  * Author:          Michael Wender
  * Author URI:      https://michaelwender.com
